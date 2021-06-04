@@ -8,9 +8,9 @@
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://ec2-54-166-167-192.compute-1.amazonaws.com/d57rlo8skrkvn3"/>
-            <property name="javax.persistence.jdbc.user" value="rfdfbpbgqorkom"/>
-            <property name="javax.persistence.jdbc.password" value="b149b57592b63146749d82774506207a44b14cc190cfcfc8608fc91e94447e6b"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://ec2-54-145-224-156.compute-1.amazonaws.com/d2jmfh4hingq6e"/>
+            <property name="javax.persistence.jdbc.user" value="sfxbuepzzklcyt"/>
+            <property name="javax.persistence.jdbc.password" value="1a297678e4991fc667d0e52059d9bad355080da451fef9fa4aa1851ef5756582"/>
 
             <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQL10Dialect"/>
             <property name="hibernate.temp.use_jdbc_metadata_defaults" value="flase"/>
